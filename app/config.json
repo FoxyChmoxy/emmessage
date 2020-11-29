@@ -1,0 +1,38 @@
+{
+	"WASSA":
+	{
+		"anger":
+		{
+			"01": "https://saifmohammad.com/WebDocs/EmoInt%20Train%20Data/anger-ratings-0to1.train.txt",
+			"02": "https://saifmohammad.com/WebDocs/EmoInt%20Dev%20Data%20With%20Gold/anger-ratings-0to1.dev.gold.txt"
+		},
+		"fear":
+		{
+			"01": "https://saifmohammad.com/WebDocs/EmoInt%20Train%20Data/fear-ratings-0to1.train.txt",
+			"02": "https://saifmohammad.com/WebDocs/EmoInt%20Dev%20Data%20With%20Gold/fear-ratings-0to1.dev.gold.txt"
+		},
+		"joy":
+		{
+			"01": "https://saifmohammad.com/WebDocs/EmoInt%20Train%20Data/joy-ratings-0to1.train.txt",
+			"02": "https://saifmohammad.com/WebDocs/EmoInt%20Dev%20Data%20With%20Gold/joy-ratings-0to1.dev.gold.txt"
+		},
+		"sadness":
+		{
+			"01": "https://saifmohammad.com/WebDocs/EmoInt%20Train%20Data/sadness-ratings-0to1.train.txt",
+			"02": "https://saifmohammad.com/WebDocs/EmoInt%20Dev%20Data%20With%20Gold/sadness-ratings-0to1.dev.gold.txt"
+		}
+	},
+	"archive":
+	{
+		"test": 
+		{
+			"01" : "datasets/test01.txt",
+			"02" : "datasets/test02.txt"
+		},
+		"train":
+		{
+			"01" : "datasets/train.txt"
+		}
+	},
+	"corporate": "datasets/Corporate-messaging-DFE.csv"
+}
